@@ -1,0 +1,10 @@
+{
+    "liveServer.settings.port": 5501,
+    "semi": true,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "printWidth": 80,
+    "trailingComma": "none",
+    "arrowParens": "avoid",
+    "bracketSpacing": true
+}
